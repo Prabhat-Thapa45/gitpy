@@ -1,3 +1,6 @@
+from msilib import add_stream
+
+
 print("hello world")
 
 def trial():
@@ -9,3 +12,4 @@ def new():
 
 def dfs():
     pass
+add_stream
